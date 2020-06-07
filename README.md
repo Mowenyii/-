@@ -3,6 +3,23 @@
 
 *注：编译环境为VC++6.0*
 
+
+文件 | 作用 | 
+------------ | :-------------: | 
+Teacher.cpp | 可运行文件  | 
+HandedHomeWork| 学生提交的作业  |
+Grade.txt|学生成绩及选课情况
+HomeWork.txt|教师发布的作业
+Tealogin.txt|教师账号及密码
+Plagisrist.txt|作业抄袭情况
+Unsubmit.txt|未提交作业的情况
+
+
+
+ * 学号为20200000的作业存放在HandedHomeWork/20000(课程编号)/20200000(学号).txt
+
+
+
 ## 教师端
 
 已实现的功能：
